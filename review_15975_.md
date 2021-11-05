@@ -21,7 +21,8 @@
 ### Validity of HTML:
 - Some tags are opened and not closed
 - alot of links are missing the href attribute
-- **Score:** acceptable
+- it works.
+- **Score:** very good
 
 
 ### Evidience of collaboration:
